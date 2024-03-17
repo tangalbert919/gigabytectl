@@ -1,0 +1,9 @@
+[submodule "kernel-driver"]
+	path = gigabyte-laptop-wmi
+	url = https://github.com/tangalbert919/gigabyte-laptop-wmi
+[submodule "control-center"]
+	path = AeroControlCenter
+	url = https://github.com/tangalbert919/AeroControlCenter
+[submodule "dbus"]
+	path = gigabyte-dbus
+	url = https://github.com/tangalbert919/gigabyte-dbus
